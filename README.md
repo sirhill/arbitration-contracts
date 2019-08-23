@@ -1,6 +1,6 @@
 # Arbitration Contracts
 
-SCAI smart contracts repository.
+Arbitration smart contracts repository.
 It contains components usefull for arbitration.
 
 ## The Arbitrage Oracle
@@ -54,5 +54,6 @@ The IRestrictableArbitrage interface allows to restrict to a claimant, a defenda
 
 ## Test coverage
 
-The latest coverage result may be found [here](https://swissarbitration.github.io/arbitration-contracts/coverage/)
+To come soon...
+#The latest coverage result may be found [here](https://sirhill.github.io/arbitration-contracts/coverage/)
 

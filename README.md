@@ -9,7 +9,7 @@ The 'Arbitrage' is defined in a dedicated smart contract.
 This contract describes the process to resolve eventual disputes. Offchain informations and decisions will be required for the resolution. Hence, effectively acting as an Arbitrator Oracle.
 
 Although it may be used independenty or the underlying processes, the arbitrage is more efficient and much cheaper when used together.
-This underlying contrat must follow the guidelines of this framework to be 'Arbitrable'.
+This underlying contract must follow the guidelines of this framework to be 'Arbitrable'.
 It offer the ability to the arbitrage contract to directly enforce all decisions made toward the disputes resoltuion.
 
 ## A simple Escrow example
